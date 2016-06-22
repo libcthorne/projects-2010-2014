@@ -1,0 +1,4 @@
+masterAddress=localhost
+masterPort=50200
+chatHostPort=50300
+serverPassword=test
